@@ -1,5 +1,6 @@
 # weather_langchain_example
 一个利用Langchain agents实现天气查询LLM的简单用例  
+具体实现方法可以看代码  
 # First
 使用Ollama作为LLM Models，需要先安装好Ollama  
   
